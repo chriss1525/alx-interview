@@ -1,3 +1,4 @@
+#!/usr/bin/node
 //script that prints all the characters of a Star Wars movie:
 
 const request = require('request');
