@@ -3,6 +3,7 @@
 
 """ number that calculates the fewest number of operations needed to result"""
 
+
 def minOperations(n):
     """ minOperations function """
     if n <= 1:
